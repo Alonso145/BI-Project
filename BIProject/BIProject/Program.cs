@@ -204,6 +204,6 @@ class Program
             }
         }
 
-        return dataDictionaryPURCHASES;
+        return dataDictionary;
     }
 }
